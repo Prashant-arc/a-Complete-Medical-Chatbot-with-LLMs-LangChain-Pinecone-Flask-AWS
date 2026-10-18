@@ -1,4 +1,4 @@
-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS/tree/main
+a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-streamlit-AWS/tree/main
 
 
 ## Setup
